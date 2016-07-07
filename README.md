@@ -5,5 +5,6 @@ Currently, binary classification is used instead of 5 star ratings, with reviews
 
 ## What's next
 -Various classifiers are going to be tested on the given dataset
+
 -Multi-class classification (5 classes - one for each star rating) will be implemented
 
